@@ -107,7 +107,7 @@ code {        outline: 1px solid #E04251!important; }
 kbd {         outline: 1px solid #5E001F!important; }
 samp {        outline: 1px solid #9C0033!important; }
 var {         outline: 1px solid #D90047!important; }
-mark {        outline: 1px solid #FF0053!important; }
+/* mark {        outline: 1px solid #FF0053!important; } */
 bdi {         outline: 1px solid #BF3668!important; }
 bdo {         outline: 1px solid #6F1400!important; }
 ruby {        outline: 1px solid #FF7B93!important; }
