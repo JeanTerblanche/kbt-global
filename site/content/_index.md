@@ -23,8 +23,6 @@ products:
     text: Gearboxes
   - image: img/isis-franca-hspfuudrg5i-unsplash.jpg
     text: Precision Engineering
-  - image: img/whatsapp-image-2022-02-23-at-9.48.30-am.jpeg
-    text: Lubrication Products
   - image: img/mika-baumeister-1p1cm7_2sak-unsplash.jpg
     text: Pumps
 values:
