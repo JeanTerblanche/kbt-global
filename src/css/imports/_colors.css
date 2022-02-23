@@ -40,9 +40,9 @@
   background-color: var(--primary);
 }
 
-.bg-highlight {
+/* .bg-highlight {
   background-color: var(--highlight);
-}
+} */
 
 .bg-white {
   background-color: var(--white);
