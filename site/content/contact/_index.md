@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/garett-mizunaka-xfjti9ryilo-unsplash.jpg
+logo: img/kbt-global-trading-2.png
 contact_entries:
   - heading: Location
     text: 3153 Lynn Avenue, South San Francisco, California 94080
